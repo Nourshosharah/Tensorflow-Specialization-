@@ -28,13 +28,13 @@ There are actually four courses:
 ## 1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
 
 
-1.1 [A new programming paradigm](1.1helloworldNeuralNet.md)
+1.1 [A new programming paradigm]
 
 Introduction of difference between ML and traditional programming.
 
 A hello world neural network program using TensorFlow.
 
-1.2 [Introduction to Computer Vision](1.2computervision.md)
+1.2 [Introduction to Computer Vision]
 
 Introduction of dataset Fashion MNIST.
 
@@ -42,7 +42,7 @@ Use this dataset to train a neural network to recognize clothes. Classify a pict
 
 **Exercise 2** is handwriting recognition using dataset MNIST.
 
-1.3 [Enhancing Vision with Convolutional Neural Networks](1.3cnn.md)
+1.3 [Enhancing Vision with Convolutional Neural Networks]
 
 Introduce convolution and pooling. And how to implement them in code (add few layers before flattening layer).
 
@@ -51,7 +51,7 @@ Introduce convolution and pooling. And how to implement them in code (add few la
 **Exercise 3** is handwriting recognition using dataset MNIST with CNN.
 
 
-1.4 [Using Real-world Images](1.4compleximages.md)
+1.4 [Using Real-world Images]
 
 Load around 1000 images about human or horses and label them using ImageGenerator. Feel how the ImageGenerator is pulling the images from the file system and feeding them into the neural network for training
 
